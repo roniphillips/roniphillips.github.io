@@ -191,6 +191,10 @@ input, select, textarea {
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
+		a.small {
+			font-size: smaller;
+		}
+
 	sub {
 		position: relative;
 		top: 0.5em;
