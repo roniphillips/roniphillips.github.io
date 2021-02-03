@@ -150,6 +150,10 @@ input, select, textarea {
 		font-size: 1.5em;
 	}
 
+		h3.alt {
+			font-weight: 300;
+		}
+
 	header {
 		margin: 0 0 2em 0;
 	}
@@ -272,7 +276,7 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
-		align-items: stretch;
+		align-items: center;
 	}
 
 		.row > * {
