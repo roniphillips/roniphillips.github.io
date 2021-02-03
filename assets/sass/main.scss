@@ -760,7 +760,9 @@
 
 			&.one {
 				background-color: #81918E;
-				background-image: url('../../images/banner.jpg');
+				background-image: url('../../images/ringplaza.jpg');
+				filter: blur(8px);
+  				-webkit-filter: blur(8px);
 			}
 
 			&.two {
