@@ -1870,6 +1870,10 @@ input, select, textarea {
 		padding-left: 0;
 	}
 
+		ul.icons.alt {
+			margin-bottom: 0;
+		}
+
 		ul.icons li {
 			display: inline-block;
 			padding-left: 0;
