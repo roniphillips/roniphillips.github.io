@@ -2091,8 +2091,8 @@ input, select, textarea {
 			font-variant: normal;
 			text-rendering: auto;
 			line-height: 1em;
-			margin-top: 6px;
-			margin-bottom: 4px;
+			margin-top: 4px;
+			margin-bottom: 0px;
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
