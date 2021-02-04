@@ -117,6 +117,14 @@ input, select, textarea {
 		vertical-align: middle;
 		padding-bottom: 11px;	/* to match icon position */
 	}
+
+	div.icon-label-brands {
+		display: inline-block;
+		padding-left: 1em;
+		line-height: 29px; 		/* to match icon height */
+		vertical-align: middle;
+		padding-bottom: 8px;	/* to match icon position for brands */
+	}
 	
 	p {
 		font-weight: 300;
