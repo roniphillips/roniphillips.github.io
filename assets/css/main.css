@@ -323,6 +323,12 @@ input, select, textarea {
 			width: 8.33333%;
 		}
 
+		.row > .col-1.aln-right {
+			width: 8.33333%;
+			text-align: right;
+			line-height: 25px;
+		}
+
 		.row > .off-1 {
 			margin-left: 8.33333%;
 		}
@@ -353,6 +359,11 @@ input, select, textarea {
 
 		.row > .col-4 {
 			width: 33.33333%;
+		}
+		.row > .col-4.icon-label-left {
+			width: 33.33333%;
+			text-align: left;
+			line-height: 1em;
 		}
 
 		.row > .off-4 {
